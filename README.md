@@ -48,7 +48,7 @@
 
 
 
-[c]: https://github.com/sabbirahmedAUST/sabbi/tree/main/images/c++
+[c]: https://github.com/sabbirahmedAUST/ProjectInfinityWar/tree/main/piw/c++.png
 [vs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png
 [piwwiki]: https://en.wikipedia.org/wiki/Avengers:_Infinity_War
 [piw]: https://www.youtube.com/watch?v=rNeXcpLKcpA
